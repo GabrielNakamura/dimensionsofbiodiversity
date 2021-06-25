@@ -1,11 +1,11 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emily Cooper"
-role: "Social media strategy @ Savoir"
+author: "Gabriel Nakamura"
+role: "Postdoctoral fellow at @ufrgsnoticias"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: true
-audio_link_label: "How to say my name"
+audio_link_label: 
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Paris

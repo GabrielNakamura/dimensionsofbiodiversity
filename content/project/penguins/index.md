@@ -1,9 +1,9 @@
 ---
-title: "Palmer Penguins"
-subtitle: ""
+title: "FishPhyloMaker"
+subtitle: "An R package to generate phylogenies for bony fishes"
 excerpt: "Grid is the very first CSS module created specifically to solve the layout problems we’ve all been hacking our way around for as long as we’ve been making websites."
 date: 2019-07-02
-author: "Eric Anderson"
+author: "Gabriel Nakamura"
 draft: false
 tags:
 - hugo-site
@@ -21,7 +21,7 @@ links:
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/allisonhorst/palmerpenguins/
+  url: https://github.com/GabrielNakamura/FishPhyloMaker/
 - icon: newspaper
   icon_pack: far
   name: Blog post

@@ -1,12 +1,13 @@
 ---
-title: "Emily Cooper"
-subtitle: "Social media strategy @ Savoir"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
-date: 2019-02-18T12:27:33-06:00
+title: "Gabriel Nakamura"
+subtitle: "Ph.D in Ecology|Postdoctoral fellow in UFRGS|
+temporary Professor in UFC"
+description: "Hello, I am Gabriel Nakamura, a Brazilian ecologist interested in translate the nature of ecological phenomena in numbers. In this website you will find a little about me, my publications, my current research and some numerical tools useful for ecological analysis"
+date: 2021-06-18T12:27:33-06:00
 images:
-  - img/revoir.jpg
-image_left: true
-text_align_left: false
+  - img/flower-orange.jpg
+image_left: false
+text_align_left: true
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: /about
