@@ -1,18 +1,17 @@
 ---
-title: A Blog That Works
+title: Publications
 description: |
-  This is a fully featured blog that supports categories, 
-  tags, series, and pagination.
-author: "The R Markdown Team @RStudio"
+  This is a list containing my publications and that I co-authored.
+author: "Gabriel Nakamura"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
 # for listing page layout
-layout: list-sidebar # list, list-sidebar, list-grid
+layout: list # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: Some thoughts not peer-reviewed
+  title: Some thoughts peer-reviewed
   description: |
     This is a fully featured blog that supports categories,
     tags, series, and pagination. Even this sidebar offers 
@@ -34,7 +33,7 @@ cascade:
   # for single-sidebar layout
   sidebar:
     text_link_label: View recent posts
-    text_link_url: /blog/
+    text_link_url: /publications/
     show_sidebar_adunit: false # show ad container
 ---
 
