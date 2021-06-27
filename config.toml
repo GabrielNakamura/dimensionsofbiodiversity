@@ -31,9 +31,9 @@ enableEmoji = true
   orgName = "GabrielNakamura"
   orgLocal = "Brazil"
   description = "Hello!  I am Gabriel Nakamura, a Brazilian ecologist interested in translate the nature of ecological phenomena in numbers. In this website you will find a little about me, my publications, my current research and some numerical tools useful for ecological analysis"
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "projects", "talk"]
+  favicon = ""
+  logo = ""
+  mainSections = ["publications", "projects", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -104,7 +104,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Publications"
     title = "Publications"
-    url = "/blog/"
+    url = "/publications/"
     weight = 2
   [[menu.header]]
     name = "Projects"
