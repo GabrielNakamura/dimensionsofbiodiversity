@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Hello!  I am Gabriel Nakamura, a Brazilian ecologist interested in translate the nature of ecological phenomena in numbers. In this website you will find a little about me, my publications, my current research and some numerical tools useful for ecological analysis"
   favicon = ""
   logo = ""
-  mainSections = ["publication", "project", "talk", "course", "CV"]
+  mainSections = ["publication", "project", "talk", "CV"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -117,12 +117,7 @@ enableEmoji = true
     url = "/talk/"
     weight = 4
   [[menu.header]]
-    name = "Courses"
-    title = "Courses"
-    url = "/course/"
-    weight = 4
-  [[menu.header]]
-    name = "Resumé/CV"
+    name = "Resume/CV"
     title = "Find here my professional experiences"
     url = "/CV/"
     weight = 4
