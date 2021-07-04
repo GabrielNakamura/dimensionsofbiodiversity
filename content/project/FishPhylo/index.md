@@ -24,9 +24,6 @@ links:
   url: https://github.com/GabrielNakamura/FishPhyloMaker/
 ---
 
-{{< here >}}
-
-
 ---
 
 **Making phylogenies for a local pool of fish species**

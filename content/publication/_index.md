@@ -7,7 +7,7 @@ show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
 # for listing page layout
-layout: list # list, list-sidebar, list-grid
+layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
@@ -34,7 +34,7 @@ cascade:
   # for single-sidebar layout
   sidebar:
     text_link_label: View recent posts
-    text_link_url: ""
+    text_link_url: "/publication/"
     show_sidebar_adunit: true # show ad container
   text_series_label: "In this series" 
   text_contents_label: "On this page" 
